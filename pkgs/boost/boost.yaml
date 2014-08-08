@@ -1,4 +1,4 @@
-extends: [base_package, libflags]
+extends: [base_package]
 
 dependencies:
   build: [bzip2, mpi, zlib, python]
